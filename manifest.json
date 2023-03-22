@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "互予小基",
+  "version": "1.0.0",
+  "description": "互予小基，你的财富小助手",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "互予小基",
+    "default_icon": {
+      "16": "/images/icons/app_16.png",
+      "32": "/images/icons/app_32.png",
+      "48": "/images/icons/app_48.png",
+      "128": "/images/icons/app_128.png"
+    }
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "/images/icons/app_16.png",
+    "32": "/images/icons/app_32.png",
+    "48": "/images/icons/app_48.png",
+    "128": "/images/icons/app_128.png"
+  }
+}

@@ -23,5 +23,10 @@
 ![img.png](source/2.png)
 ![img.png](source/3.png)
 ![img.png](source/4.png)
+#### 基金编辑与交易记录
 ![img.png](source/5.png)
 ![img.png](source/6.png)
+#### 钉钉配置与通知
+![img.png](source/7.png)
+![img.png](source/8.png)
+##### 系统后台每个交易日14:35开始处理你持仓基金情况。达到你设置触发条件后将于14:40左右开始推送！
